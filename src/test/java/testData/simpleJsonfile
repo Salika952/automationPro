@@ -1,0 +1,9 @@
+
+
+{
+   "myDetails"  {
+          "Name" : "Jack",
+          "Age" : "30",
+          "Gender" : "Male"
+        }
+ }
